@@ -7,7 +7,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧮 Algorithms & Complexity <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🕸️ Web Systems & Technologies <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🗂️ Information Management <br> <br>
-✉️ Contact me on [Facebook](https://www.facebook.com/canturiaschristian) 
+📜 Check out my site at https://canturias.github.io
 
 
 # 💻 Tech Stack:
