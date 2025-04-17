@@ -7,10 +7,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧮 Algorithms & Complexity <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🕸️ Web Systems & Technologies <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🗂️ Information Management <br> <br>
-📜 Check out my site at https://canturias.github.io
+
+Check out my site at https://canturias.github.io <br>
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -26,7 +28,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=canturias&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
 ![](https://github-readme-stats.vercel.app/api?username=canturias&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
@@ -34,7 +36,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=canturias&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
