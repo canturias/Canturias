@@ -34,7 +34,5 @@ Check out my site at https://canturias.github.io <br>
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=canturias&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
